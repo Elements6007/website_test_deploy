@@ -63,5 +63,15 @@ body {
 }
 
 
-/* content styles */
-.center-fit {opacity: 0.8;}
+/*home_page*/
+.logo-wrap {
+    background-color: black;
+}
+.center-fit:hover {
+    transition: opacity 1s;
+    opacity: 0.4;
+}
+.center-fit {
+    transition: opacity 1s;
+    opacity: 1;
+}
