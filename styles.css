@@ -75,8 +75,17 @@ body {
     transition: opacity 1s;
     opacity: 1;
 }
-/*projects_page*/
-.overlay {
+
+
+
+
+
+
+body {
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .overlay {
     height: 100%;
     width: 0;
     position: fixed;
@@ -124,5 +133,8 @@ body {
     top: 15px;
     right: 35px;
     }
-}
+ 
+  }
+
+
 
