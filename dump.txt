@@ -1,0 +1,48 @@
+card thing
+
+<div class="card">
+                <div class="content">
+                  <a href="blenderpro.html">
+                  <img src="images/car1.png" alt="image" style="width:100%" class="blendercarimage">
+                   <div class="cardcontainer">
+                     <h4>Blender Projects</h4> 
+                     <p>random useless renders</p> 
+                    </a>
+                   </div>
+                </div>
+
+
+
+card thing css
+
+/*.content-wrap {
+  border-top: 1px solid black;
+ 
+}
+
+.card {
+  position:relative;
+  left: 10px;
+  top: 10px;
+  border-radius: 25px 25px 25px 25px;
+  font-family: sans-serif;
+  text-decoration: none;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+  width: 20%;
+  
+}
+
+.blendercarimage {
+  border-radius: 25px 25px 0px 0px;
+}
+
+
+
+.card:hover {
+  filter: brightness(90%);
+}
+
+.cardcontainer {
+  padding: 2px 16px;
+}
+*/
